@@ -1,0 +1,12 @@
+Library Management System (DBMS)
+
+This project involves developing a Library Management System with two primary entities: Student and Admin. The system is designed to streamline library operations, including book issuance, returns, and information updates.
+
+Features:
+
+Student Portal: Students can log in to their accounts to issue and return books.
+Admin Portal: Admins can update book information and manage fines for late returns.
+Technologies Used:
+Frontend: HTML, CSS, Bootstrap
+Backend: JavaScript (Node.js)
+Database: MySQL
